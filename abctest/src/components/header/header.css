@@ -1,0 +1,13 @@
+body {
+  background-image: url("../images/backgrounds/slide_one.jpg");
+  font-family: HelveticaNeue;
+}
+.header {
+  padding: 55px 240px;
+}
+.industries {
+  font-family: HelveticaNeue-Bold;
+  line-height: 1.625rem;
+  color: white;
+  font-size: 0.99rem;
+}
