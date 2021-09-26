@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import './App.css';
 import HeaderSection from "./components/header/header";
-import ContactSection from './components/contactUs/contactUs';
+
 
 class App extends Component {
   render(){
@@ -9,7 +9,7 @@ class App extends Component {
     <div>
     
   <HeaderSection></HeaderSection>
-<ContactSection></ContactSection>
+
   </div>
   );
 }

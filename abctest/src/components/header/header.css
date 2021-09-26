@@ -2,11 +2,15 @@
   padding: 15px 130px;
   line-height: 1.6rem;
 }
-/* .contactUs {
-  display: flex;
-  justify-content: flex-end;
+.contactBox {
+  float: right;
+  margin-left: 10px;
+  font-size: 0.99rem;
+  color: white;
+  text-align: center;
   border: solid 1px white;
-} */
+  width: 7rem;
+}
 
 .industries {
   font-family: Helvetica;
