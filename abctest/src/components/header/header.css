@@ -1,13 +1,28 @@
-body {
-  background-image: url("../images/backgrounds/slide_one.jpg");
-  font-family: HelveticaNeue;
-}
 .header {
-  padding: 55px 240px;
+  padding: 15px 130px;
+  line-height: 1.6rem;
 }
+/* .contactUs {
+  display: flex;
+  justify-content: flex-end;
+  border: solid 1px white;
+} */
+
 .industries {
-  font-family: HelveticaNeue-Bold;
-  line-height: 1.625rem;
+  font-family: Helvetica;
+  line-height: 1.15rem;
+  color: white;
+  font-size: 0.99rem;
+}
+.services {
+  font-family: Helvetica;
+  line-height: 1.15rem;
+  color: #ffc004;
+  font-size: 0.99rem;
+}
+.aboutUs {
+  font-family: Helvetica;
+  line-height: 1.15rem;
   color: white;
   font-size: 0.99rem;
 }

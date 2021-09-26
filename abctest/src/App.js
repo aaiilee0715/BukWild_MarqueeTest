@@ -1,11 +1,16 @@
 import React, { Component } from "react";
+import './App.css';
 import HeaderSection from "./components/header/header";
+import ContactSection from './components/contactUs/contactUs';
 
 class App extends Component {
   render(){
   return (
-    <HeaderSection></HeaderSection>
+    <div>
     
+  <HeaderSection></HeaderSection>
+<ContactSection></ContactSection>
+  </div>
   );
 }
 }

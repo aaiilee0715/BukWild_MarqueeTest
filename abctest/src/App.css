@@ -1,1 +1,8 @@
-
+body {
+  background-image: url("../src/components/images/backgrounds/slide_one.jpg");
+  /* background-position: center center; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Helvetica;
+}

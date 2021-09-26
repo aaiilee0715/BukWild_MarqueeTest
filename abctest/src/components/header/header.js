@@ -5,12 +5,12 @@ import logo from '../images/logo image/abc_logo.svg';
 
 const HeaderSection = () => {
     return (
-        <div className="header">
-        <img src={logo} alt="abcLogo" />
+        <div class="header d-flex">
+        <img src={logo} alt="abcLogo"  />
         <p className="industries">Industries</p>
-   
-      </div>
-  
+        <p className="services">Services</p>
+        <p className="aboutUs">About Us</p>
+        </div>
     );
 }
 export default HeaderSection;
